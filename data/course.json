@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theater"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "bd4968bf-8c1e-8b90-ba00-58bb2586419b",
+  "instructors": {
+    "content": [
+      "2f2239dd-af66-2851-a15c-4df9ee13b8ce"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a7b95908-860c-552a-83ff-738878453987",
+    "website": "21m-710-script-analysis-fall-2011"
+  },
+  "course_title": "Script Analysis",
+  "course_description": "This course focuses on reading a script theatrically with a view to mounting a coherent production. Through careful, intensive reading of a variety of plays from different periods and different aesthetics, a pattern emerges for discerning what options exist for interpretating a script.\n\nThe {{% resource_link \"a813dada-0362-4150-b385-b69dc1bb7948\" \"Fall 2005 version\" %}} of this course contains alternate readings and assignments sections.",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.710",
+  "course_image_thumbnail": {
+    "content": "72098053-020f-0ae7-9be1-56520cd0fcfa",
+    "website": "21m-710-script-analysis-fall-2011"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "63da03f0-9b22-427c-8201-8d1a07f1ca16",
+  "site_short_id": "21m.710-fall-2011",
+  "site_url_path": "courses/21m-710-script-analysis-fall-2011",
+  "title": "Course Metadata"
+}
