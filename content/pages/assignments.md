@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides topics for the two writing assignments of the course,
   instructions for the final project, and examples of student work.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
