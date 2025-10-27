@@ -5,8 +5,6 @@ description: 'Example of student work for an assignment on the script and produc
 file: /courses/21m-710-script-analysis-fall-2011/8b1c22e3e9446333dd1ef17b2a4c0ae6_MIT21M_710F11_Next_Fall.pdf
 file_size: 557084
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
