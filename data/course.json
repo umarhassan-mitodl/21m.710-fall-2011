@@ -33,8 +33,7 @@
     "website": "21m-710-script-analysis-fall-2011"
   },
   "course_title": "Script Analysis",
-  "hide_download": true,
-  "course_description": "This course focuses on reading a script theatrically with a view to mounting a coherent production. Through careful, intensive reading of a variety of plays from different periods and different aesthetics, a pattern emerges for discerning what options exist for interpretating a script.\n\nThe [Fall 2005 version](https://ocw.mit.edu/courses/21m-710-script-analysis-fall-2005/) of this course contains alternate readings and assignments sections.",
+  "course_description": "This course focuses on reading a script theatrically with a view to mounting a coherent production. Through careful, intensive reading of a variety of plays from different periods and different aesthetics, a pattern emerges for discerning what options exist for interpretating a script.\n\nThe {{% resource_link \"b43e1f6e-5bfe-45bc-8b52-18c5721d5f34\" \"Fall 2005 version\" %}} of this course contains alternate readings and assignments sections.",
   "department_numbers": [
     "21M"
   ],
@@ -44,7 +43,6 @@
     "content": "72098053-020f-0ae7-9be1-56520cd0fcfa",
     "website": "21m-710-script-analysis-fall-2011"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
